@@ -1,0 +1,27 @@
+body{
+  background-color: #030c1a;
+  color: white;
+  overflow-x: hidden;
+}
+/* #coursedetails{
+
+  
+} */
+
+#brandname{
+  font-family: 'Odor Mean Chey', serif;
+}
+
+
+.poppins{
+  font-family: 'Poppins', sans-serif;
+}
+.roboto{
+  font-family: 'Roboto', sans-serif;
+}
+.rubik{
+  font-family: 'Rubik', sans-serif;
+}
+#heroimg{
+  box-shadow: inset 0px -200px 500px #030c1a;
+}
