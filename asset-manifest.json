@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/Blackbull-Academy/static/css/main.1135117a.css",
-    "main.js": "/Blackbull-Academy/static/js/main.6f3507d6.js",
+    "main.css": "/Blackbull-Academy/static/css/main.496c7b9b.css",
+    "main.js": "/Blackbull-Academy/static/js/main.b26505e1.js",
     "static/js/787.7cb2e3e1.chunk.js": "/Blackbull-Academy/static/js/787.7cb2e3e1.chunk.js",
-    "static/media/hero.jpg": "/Blackbull-Academy/static/media/hero.da5132aaf90a0766247b.jpg",
     "static/media/insta.png": "/Blackbull-Academy/static/media/insta.d8376b2e32b51dcc3c77.png",
     "static/media/gmail.png": "/Blackbull-Academy/static/media/gmail.e170b0658befeeeee500.png",
     "static/media/logo.jpg": "/Blackbull-Academy/static/media/logo.792391faa7a6e4cedefd.jpg",
     "static/media/telegram.png": "/Blackbull-Academy/static/media/telegram.c1ee3ac67aa7bc5b7c9e.png",
     "index.html": "/Blackbull-Academy/index.html",
-    "main.1135117a.css.map": "/Blackbull-Academy/static/css/main.1135117a.css.map",
-    "main.6f3507d6.js.map": "/Blackbull-Academy/static/js/main.6f3507d6.js.map",
+    "main.496c7b9b.css.map": "/Blackbull-Academy/static/css/main.496c7b9b.css.map",
+    "main.b26505e1.js.map": "/Blackbull-Academy/static/js/main.b26505e1.js.map",
     "787.7cb2e3e1.chunk.js.map": "/Blackbull-Academy/static/js/787.7cb2e3e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1135117a.css",
-    "static/js/main.6f3507d6.js"
+    "static/css/main.496c7b9b.css",
+    "static/js/main.b26505e1.js"
   ]
 }
