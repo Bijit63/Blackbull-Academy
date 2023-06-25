@@ -21,20 +21,20 @@ const HeroSection = () => {
     // width: '100%',
     // height: '100%',
     zIndex: -1,
-    opacity: 0.4,
+    opacity: 0.6,
     backgroundImage: `url(${heroImage})`,
     
   };
 
   return (
-    <div id='hero' className='py-24 md:py-36 md:h-[430px] h-[340px]' style={styles}>
-      <div style={bgStyles} className='md:h-[430px] h-[340px] w-[100vw]' id='heroimg'/>
+    <div id='hero' className='py-24 md:py-36 md:h-[430px] h-[330px]' style={styles}>
+      <div style={bgStyles} className='md:h-[430px] h-[330px] w-[100vw]' id='heroimg'/>
 
-      <h1 className='text-3xl md:text-6xl font-medium text-center text-white poppins  mx-auto'>
+      <h1 className='text-3xl tshadow md:text-6xl font-medium text-center text-white poppins  mx-auto'>
         Learn Trading From Beginning
       </h1>
       <p className='mt-6 text-xl  text-gray-300 text-semibold rubik text-center max-w-3xl mx-auto'>
-        Our 2-month mentorship program will teach you everything you need to know about trading options
+        Our Live mentorship program will teach you everything you need to know about trading options
         in the stock market.
       </p>
     </div>

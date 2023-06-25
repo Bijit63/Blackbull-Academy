@@ -10,12 +10,14 @@ const Home = () => {
       <HeroSection/>
 
       {/* Main body */}
-      <div className="container mx-auto px-4 py-8">
+      <div className="container mx-auto md:px-4 md:py-8">
         <CourseDetails/>
         
       </div>
 
-      <Footer/>
+      
+
+      
 
     </div>
   )
