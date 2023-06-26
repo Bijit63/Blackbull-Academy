@@ -15,7 +15,7 @@ const CourseCard = ({ heading, price, detailss, courseId , topics }) => {
   };
 
   return (
-    <div className="bg-gradient-to-br poppins xl:w-[285px] lg:w-[260px]  md:w-[270px] w-[265px] hover:shadow-lg hover:shadow-[#11118afe] my-[20px] border-[1px] border-[#ffffff55]  to-[#12055e63] from-black duration-300 transition-colors text-white shadow-md rounded-lg p-6 md:p-8  flex flex-col justify-between items-center">
+    <div className="bg-gradient-to-br poppins xl:w-[285px] lg:w-[260px]  md:w-[270px] w-[265px] hover:shadow-lg hover:shadow-[#11118afe] my-[20px] border-[1px] border-[#ffffff55] via-[#0a033a63]   to-[#12055e63] from-black duration-300 transition-colors text-white shadow-md rounded-lg p-6 md:p-8  flex flex-col justify-between items-center">
     <div className="text-center w-[210px]">
       <h2 className="lg:text-2xl text-xl roboto ">{heading}</h2>
       <h2 className="lg:text-md text-sm text-gray-400 rubik mb-4">{detailss}</h2>

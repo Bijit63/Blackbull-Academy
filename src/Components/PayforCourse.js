@@ -7,9 +7,10 @@ const PayforCourse = () => {
 
   return (
     <div class="xl:w-[80vw] lg:w-[90vw]  mx-auto px-4 py-10  rounded-lg shadow-lg">
-  <h1 class="text-3xl block font-bold text-center mb-8 text-gray-100 poppins">
-    Payment Details For {id}
+  <h1 class="text-3xl block font-bold text-center mb-1 text-gray-100 poppins">
+    Payment Details 
   </h1>
+  <h1 className='text-center md:text-2xl text-[22px] roboto font-semibold text-gray-400 mb-8'>( {id} )</h1>
   
 
   
@@ -23,7 +24,7 @@ const PayforCourse = () => {
       <p class="text-xl font-bold mb-[2px] text-gray-200 roboto">
         UPI ID - smalakar773-2@okaxis
       </p>
-      <p class="text-xl font-bold mb-4 text-gray-200 roboto">
+      <p class="text-lg font-bold mb-4 text-gray-200 roboto">
     {id=="Weekend Batch"?"Amount  = ₹ 2499":"Amount : ₹ 4999 "}
       </p>
       <p class="text-lg mb-4 text-gray-400">

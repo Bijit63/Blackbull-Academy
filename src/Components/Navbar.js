@@ -10,7 +10,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav id="navbar" className="bg-[#070718] flex flex-col items-center md:px-6 px-3 md:py-3 py-2 rounded-sm">
+    <nav id="navbar" className="bg-[#060613c9] flex flex-col items-center md:px-6 px-3 md:py-3 py-2 rounded-sm">
       <div className="flex w-full justify-between items-center">
         <div className="flex items-center">
           <img src={logo} className="md:h-[40px] h-[30px] rounded-full" alt="BlackBull Academy Logo" />

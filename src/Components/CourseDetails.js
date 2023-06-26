@@ -47,7 +47,7 @@ const CourseDetails = () => {
         price="₹ 4999"
         courseId="123"
         detailss="( Two Month Mentorship )"
-        topics={["Fibo Setup"," Premium Chart Setup","Live Market Info","BTST Setup"]}
+        topics={["Fibo Setup","Option OI Data Analysis","Live Market Info","BTST Setup"]}
         />
         </div>
       {/* COURSE CARD  */}
@@ -84,12 +84,12 @@ const CourseDetails = () => {
         <div className="border border-[#ffffff3a] bg-[#070718] rounded-lg shadow-lg px-4 py-2 md:px-2 md:py-3 text-center text-white">
           <FaTelegram className="text-3xl mb-2 mx-auto" />
           <p className="md:text-[18px] text-[16px] font-semibold">Telegram</p>
-          <p className="md:text-[18px] text-gray-300 text-[15px] mt-2">240+ Members</p>
+          <p className="md:text-[18px] text-gray-300 text-[15px] mt-2">250+ Members</p>
         </div>
         <div className="border border-[#ffffff3a] bg-[#070718] rounded-lg shadow-lg px-4 py-2 md:px-2 md:py-3 text-center text-white">
           <FaYoutube className="text-3xl mb-2 mx-auto" />
           <p className="md:text-[18px] text-[16px] font-semibold">YouTube</p>
-          <p className="md:text-[18px] text-gray-300 text-[15px] mt-2">145 Subscribers</p>
+          <p className="md:text-[18px] text-gray-300 text-[15px] mt-2">150+ Subscribers</p>
         </div>
         <div className="border border-[#ffffff3a] bg-[#070718] rounded-lg shadow-lg px-4 py-2 md:px-2 md:py-3 text-center text-white">
           <FaUser className="text-3xl mb-2 mx-auto" />

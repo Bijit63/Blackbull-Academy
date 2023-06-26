@@ -56,6 +56,7 @@ const CourseInfo = () => {
       <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> Double Bottom &amp; Double Top Trading Plan</li>
       <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> Option Buying &amp; Trading with Sideways Market</li>
       <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> BankNifty &amp; Nifty Relationship</li>
+      <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> Option OI Data Analysis</li>
 
       <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> Risk Management and Money Management</li>
       <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> Psychology and Discipline of a Trader</li>
@@ -193,6 +194,7 @@ const CourseInfo = () => {
       <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> Option Buying &amp; Trading with Sideways Market</li>
       <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> BankNifty &amp; Nifty Relationship</li>
       <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> Premium Chart Setup ( Win Ratio 80 : 20 )</li>
+      <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> Option OI Data Analysis</li>
  
   
       <li className='my-[2px] md:my-[3px] flex items-center' > <BsFillCheckCircleFill className="mr-[5px] bg-white rounded-full text-blue-500 md:mr-[9px]" /> Risk Management and Money Management</li>
