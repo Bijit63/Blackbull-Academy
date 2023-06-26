@@ -79,7 +79,7 @@ const CourseDetails = () => {
         <div className="border border-[#ffffff3a] bg-[#070718] rounded-lg shadow-lg px-4 py-2 md:px-2 md:py-3 text-center text-white">
           <FaInstagram className="text-3xl mb-2 mx-auto" />
           <p className="md:text-[18px] text-[16px] font-semibold">Instagram</p>
-          <p className="md:text-[18px] text-gray-300 text-[15px] mt-2">880 Followers</p>
+          <p className="md:text-[18px] text-gray-300 text-[15px] mt-2">900+ Followers</p>
         </div>
         <div className="border border-[#ffffff3a] bg-[#070718] rounded-lg shadow-lg px-4 py-2 md:px-2 md:py-3 text-center text-white">
           <FaTelegram className="text-3xl mb-2 mx-auto" />
